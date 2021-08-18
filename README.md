@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nikhil.vermaa0@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1TpeJCfVOyEZRnrGSqcqM8KtNPpqIagWJ/edit?usp=sharing&ouid=100452747812751546763&rtpof=true&sd=true](https://docs.google.com/document/d/1TpeJCfVOyEZRnrGSqcqM8KtNPpqIagWJ/edit?usp=sharing&ouid=100452747812751546763&rtpof=true&sd=true)
+- 📄 Know about my experiences [GET My Resume](https://docs.google.com/document/d/1TpeJCfVOyEZRnrGSqcqM8KtNPpqIagWJ/edit?usp=sharing&ouid=100452747812751546763&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
