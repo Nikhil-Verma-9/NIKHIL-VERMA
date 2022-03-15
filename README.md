@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript,Wordpress**
 
-- 📝 I regularly write articles on [Website](http://fourseasonblog.com/)
+- 📝 I regularly write articles on [fourseasonblog](http://fourseasonblog.com/)
 
 - 📫 How to reach me **nikhil.vermaa0@gmail.com**
 
