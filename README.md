@@ -1,5 +1,5 @@
 
-<div style="background-image: url('https://cutewallpaper.org/21/white-background-gif/Pin-on-gif%E5%9B%BE.gif');">
+<div style="background-color:gray;">
 <h1 align="center">Hi 👋, I'm Nikhil Verma</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
