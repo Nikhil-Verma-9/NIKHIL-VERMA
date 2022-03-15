@@ -1,6 +1,6 @@
 <body background="https://cutewallpaper.org/21/white-background-gif/Pin-on-gif%E5%9B%BE.gif">
-     
-     <h1 align="center">Hi 👋, I'm Nikhil Verma</h1>
+<div>
+<h1 align="center">Hi 👋, I'm Nikhil Verma</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-verma-9&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-verma-9" /> </p>
@@ -27,5 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil-verma-9&show_icons=true&locale=en" alt="nikhil-verma-9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-verma-9&" alt="nikhil-verma-9" /></p>
-
+     </div>
   </body>
