@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/@nikhilverma9170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@nikhilverma9170" height="30" width="40" /></a>
 <a href="https://fb.com/@nikhil.verma.91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@nikhil.verma.91" height="30" width="40" /></a>
-<a href="https://instagram.com/@the__melophile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@the__melophile" height="30" width="40" /></a>
+<a href="https://instagram.com/nikhil__27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@the__melophile" height="30" width="40" /></a>
 <a href="https://discord.gg/7924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7924" height="30" width="40" /></a>
 </p>
 
